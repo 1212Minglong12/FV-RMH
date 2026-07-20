@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "FV-RMH: Volumetric Raman molecular histology analysis code"
+type: software
+authors:
+  - family-names: Li
+    given-names: Minglong
+  - family-names: Lu
+    given-names: Guye
+  - family-names: Wang
+    given-names: Yin
+  - family-names: Yang
+    given-names: Dongjie
+  - family-names: Shen
+    given-names: Yanping
+  - family-names: Liu
+    given-names: Tong
+  - family-names: Liu
+    given-names: Shiyin
+  - family-names: Sun
+    given-names: Wenqi
+  - family-names: Cai
+    given-names: Ping
+  - family-names: Zhang
+    given-names: Weimin
+  - family-names: Weng
+    given-names: Yuan
+  - family-names: Wang
+    given-names: Haifeng
+  - family-names: Zhao
+    given-names: Xiaoyu
+  - family-names: Li
+    given-names: Jinyou
+repository-code: "https://github.com/supervision-xyz/FV-RMH"
+version: "1.0.0"
